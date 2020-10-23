@@ -1,7 +1,7 @@
 ### Hi there. This is dahua. 👋
 
 
-- 🔭 I’m currently working on build a music score engravment lib & a distributed batch processing system.
+- 🔭 I’m currently working on build a music score render lib & a distributed batch processing system.
 - 🌱 I’m currently learning IOS、muilti-media based on ffempg development.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with everything.
