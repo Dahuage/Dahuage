@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me about nothing.
-- 📫 How to reach me: MAIL: guzhaoer@gmail.com or WECAHT: guzhaoer
+- 📫 How to reach me: MAIL: guzhaoer@gmail.com or WECHAT: guzhaoer
 
